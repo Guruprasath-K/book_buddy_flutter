@@ -14,17 +14,35 @@ Book Buddy is a mobile application that allows users to manage their book collec
 - **Search Functionality**: Users can search for books by title.
 - **Profile Management**: Users can view and update their profile information.
 - **Responsive Design**: The app is designed to work on various screen sizes.
+- **Language Localization**: Implemented a basic translation that can be done in the backend using Localization.
 
 ### Screenshots
 
+**Login Page**:
 <img src = "img/login.png">
+
+**Login Page - Dark Mode**:
 <img src = "img/login-n.png">
+
+**Home Page**:
 <img src = "img/home.png">
+
+**Search Functionality**:
 <img src = "img/search.png">
+
+**Home Page**:
 <img src = "img/home.png">
+
+**Profile Page**:
 <img src = "img/profile.png">
+
+**Profile Page - Dark Mode**:
 <img src = "img/profile-n.png">
+
+**Shared Preferences - Stored Same Data locally and displayed in Profile Page**:
 <img src = "img/shared.png">
+
+**]Language Localization**:
 <img src = "img/localization.png">
 
 ### Getting Started
