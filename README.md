@@ -19,28 +19,36 @@ Book Buddy is a mobile application that allows users to manage their book collec
 ### Screenshots
 
 **Login Page**:
-<img src = "img/login.png">
+</br>
+<img src = "img/login.png" height = 700px>
 
 **Login Page - Dark Mode**:
-<img src = "img/login-n.png">
+</br>
+<img src = "img/login-n.png" height = 700px>
 
 **Home Page**:
-<img src = "img/home.png">
+</br>
+<img src = "img/home.png" height = 700px>
 
 **Search Functionality**:
-<img src = "img/search.png">
+</br>
+<img src = "img/search.png" height = 700px>
 
 **Shared Preferences - Stored Same Data locally and displayed in Profile Page**:
-<img src = "img/shared.png">
+</br>
+<img src = "img/shared.png" height = 700px>
 
 **Profile Page**:
-<img src = "img/profile.png">
+</br>
+<img src = "img/profile.png" height = 700px>
 
 **Profile Page - Dark Mode**:
-<img src = "img/profile-n.png">
+</br>
+<img src = "img/profile-n.png" height = 700px>
 
 **Language Localization**:
-<img src = "img/localization.png">
+</br>
+<img src = "img/localization.png" height = 700px>
 
 ### Getting Started
 
