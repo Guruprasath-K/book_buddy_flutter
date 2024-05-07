@@ -60,7 +60,7 @@ To run this app locally, follow these steps:
 
 2. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/book-buddy.git
+   git clone https://github.com/Guruprasath-K/book_buddy_flutter.git
 
 3. **Open in Android Studio**:
    - Launch Android Studio.
